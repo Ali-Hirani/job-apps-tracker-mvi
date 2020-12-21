@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JobAppTrackerMvi</string>
+    <string name="upvotes">%d ❤️️ %d 👍</string>
+    <string name="heartButton">+❤️</string>
+    <string name="thumbsUpButton">+👍</string>
+</resources>
